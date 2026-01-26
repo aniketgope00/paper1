@@ -9,6 +9,6 @@ Dataset URL: [NCI Anti Cancer Activity Prediction Dataset - full](https://github
 
 
 Tasks:
-- [] Downloaded dataset
-- [] Loaded dataset
-- [] Preprocessing dataset
+- [ ] Downloaded dataset
+- [ ] Loaded dataset
+- [ ] Preprocessing dataset
