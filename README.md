@@ -9,6 +9,6 @@ Dataset URL: [Elliptic++ Dataset](https://github.com/git-disl/EllipticPlusPlus)
 
 
 Tasks:
-- [ ] Downloaded dataset
-- [ ] Loaded dataset
-- [ ] Preprocessing dataset
+- [X] Downloaded dataset
+- [X] Loaded dataset
+- [X] Preprocessing dataset
