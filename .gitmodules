@@ -1,0 +1,3 @@
+[submodule "EllipticPlusPlus"]
+	path = EllipticPlusPlus
+	url = https://github.com/aniketgope00/EllipticPlusPlus.git
